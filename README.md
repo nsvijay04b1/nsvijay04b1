@@ -28,9 +28,9 @@
     <a href="https://github.com/nsvijay04b1"><img alt="GitHub stars" height="30" src="https://img.shields.io/github/stars/nsvijay04b1?style=social"/></a>
 </p>
 
-<p align="justify">I have been fairly active on StackOverflow. You can view my <a href="https://stackoverflow.com/story/muhammad-rehan-saeed">Stack Overflow profile</a> and see my contribution to the community.</p>
+<p align="justify">I have been fairly active on StackOverflow. You can view my <a href="https://stackoverflow.com/story/nsvijay04b1">Stack Overflow profile</a> and see my contribution to the community.</p>
           
-<p align="center"><a href="https://stackoverflow.com/users/12943464/vijay"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/1212017.png?theme=dark"/></a></p>
+<p align="center"><a href="https://stackoverflow.com/users/12943464/vijay"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/12943464.png?theme=dark"/></a></p>
   
 
 <p align="center">
