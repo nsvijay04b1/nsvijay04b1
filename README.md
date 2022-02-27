@@ -15,9 +15,9 @@
 </p>
         
 <p align="center">
-    <a href="https://www.youtube.com/c/VijayNarravula"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC6geox4JkY11093RqecELGA?style=social"/></a>
+    <a href="https://www.youtube.com/c/VijayNarravula"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UCjhxlFf8IqxXglG7J3_cbqA?style=social"/></a>
     <br>
-    <a href="https://www.youtube.com/c/VijayNarravula"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC6geox4JkY11093RqecELGA?style=social"/></a>
+    <a href="https://www.youtube.com/c/VijayNarravula"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UCjhxlFf8IqxXglG7J3_cbqA?style=social"/></a>
 </p>
 
 <p align="center">
