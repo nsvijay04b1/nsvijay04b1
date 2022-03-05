@@ -37,3 +37,21 @@
     <img align="center" alt="Vijayakumar's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=nsvijay04b1&show_icons=true&count_private=true&include_all_commits=true" />
     <img align="center" alt="Vijayakumar's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsvijay04b1&layout=compact" />
 </p>
+
+## Upcoming projects
+<p align="center">
+<table id="myTable" width="100%">
+  <thead><tr><th scope="col" style="width: 488.5px;">Project</th><th scope="col" style="width: 488.5px;">Status</th></tr></thead>
+  <tbody>
+  <tr><td>terraform-aws-cognito</td><td>RBD</td></tr>
+  <tr><td>terraform-aws-efs</td><td>TBD</td></tr>
+  <tr><td>terraform-helm-kubernetes-dashboard</td><td>TBD</td></tr>
+  <tr><td>terraform-helm-external-dns</td><td>TBD</td></tr>
+  <tr><td>terraform-helm-private-container-registry</td><td>TBD</td></tr>
+  <tr><td>terraform-aws-pca</td><td>TBD</td></tr>
+  <tr><td>terraform-gke-apiserver-proxy</td><td>TBD</td></tr>
+  <tr><td>terraform-helm-nginx-controller</td><td>TBD</td></tr>
+  </tbody>
+</table>
+</p>
+  
