@@ -38,20 +38,38 @@
     <img align="center" alt="Vijayakumar's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsvijay04b1&layout=compact" />
 </p>
 
-## Upcoming projects
-<p align="center">
-<table id="myTable" width="100%">
-  <thead><tr><th scope="col" style="width: 488.5px;">Project</th><th scope="col" style="width: 488.5px;">Status</th></tr></thead>
-  <tbody>
-  <tr><td>terraform-aws-cognito</td><td>RBD</td></tr>
-  <tr><td>terraform-aws-efs</td><td>TBD</td></tr>
-  <tr><td>terraform-helm-kubernetes-dashboard</td><td>TBD</td></tr>
-  <tr><td>terraform-helm-external-dns</td><td>TBD</td></tr>
-  <tr><td>terraform-helm-private-container-registry</td><td>TBD</td></tr>
-  <tr><td>terraform-aws-pca</td><td>TBD</td></tr>
-  <tr><td>terraform-gke-apiserver-proxy</td><td>TBD</td></tr>
-  <tr><td>terraform-helm-nginx-controller</td><td>TBD</td></tr>
-  </tbody>
-</table>
-</p>
+
+
+## My IT certifications
+
+
+  |                Certification name                             |                  Public verification link                          |
+  | --------------------------------------------------------------| ------------------------------------------------------------------ |
+  | AWS Certified DevOps Engineer – Professional                  | https://www.credly.com/badges/f9e0bba4-6b52-46a0-a52f-a031e29c7c9f |
+  | AWS Certified Solutions Architect – Professional              | https://www.credly.com/badges/d916451d-5d43-4809-8a23-d3c5473001a8 |
+  | AWS Certified Solutions Architect – Associate                 | https://www.credly.com/badges/d420ab4a-3c22-40ee-9415-ed3ba149d462 | 
+  | AWS Certified SysOps Administrator – Associate                | https://www.credly.com/badges/68694f03-56bf-401d-9c35-1fd4ed035f92 |
+  | Microsoft Certified: Azure Solutions Architect Expert         | https://www.credly.com/badges/3f739363-78ee-4fc1-bae0-7b7a34d6b4a2 |
+  | Microsoft Certified: Azure Fundamentals                       | https://www.credly.com/badges/f0367581-0127-4ac3-9c4f-b3058bec3d55 |
+  | AZ-400: Designing and Implementing Microsoft DevOps Solutions | https://www.credly.com/badges/e2cc6b8f-2fed-4fc3-b779-3cec98efd9c4 |
+  | AZ-303: Microsoft Azure Architect Technologies                | https://www.credly.com/badges/eb1a1051-9900-4c38-8268-3c5a8f09f88d |
+  | Microsoft Certified: Azure Administrator Associate            | https://www.credly.com/badges/14c298a1-5cfa-480c-bcb2-6b81da9658bd |
+  | AZ-304: Microsoft Azure Architect Design                      | https://www.credly.com/badges/fc52d5ae-0c0a-47c9-ae7b-4c937db99d69 |
+  | HashiCorp Certified: Terraform Associate (002)                | https://www.credly.com/badges/7a3f418d-763a-48da-9adf-dcb9f385c535 |
+  | CKS: Certified Kubernetes Security Specialist                 | https://www.credly.com/badges/af4bc82a-dbed-41f4-b093-a84983ff1ba9 |
+  | CKA: Certified Kubernetes Administrator                       | https://www.credly.com/badges/4ad89814-23d9-4961-9e29-3aa900e9a12b | 
+  | CKAD: Certified Kubernetes Application Developer              | https://www.credly.com/badges/b1c9ce84-65cb-4ea4-94b8-941190798e20 |
+  | Google Cloud Certified Associate cloud engineer               | https://google.accredible.com/24a09e83-7c9e-4d00-8249-fb5e70dea8ee |
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
   
